@@ -1,0 +1,11 @@
+.idea
+tmp
+backup
+*.bak
+app/cache
+google*
+robots.txt
+web.config
+product
+rays_1
+raysmond
